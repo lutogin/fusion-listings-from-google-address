@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google Address → Listings Mapper</title>
+  </head>
+  <body>
+    <div id="app">
+      <div class="container">
+        <h1>🗺️ Google Address → Listings Mapper</h1>
+        <p class="subtitle">See how Google address search maps to boundaries and listings</p>
+        
+        <div class="search-box">
+          <input 
+            type="text" 
+            id="addressInput" 
+            placeholder="Enter address (e.g., 400 Inwood Road, Austin, TX)"
+            value="400 Inwood Road, Austin, TX 78746"
+          />
+          <button id="searchBtn">🔍 Search</button>
+        </div>
+
+        <div id="loading" class="loading hidden">
+          <div class="spinner"></div>
+          <p>Searching Google API...</p>
+        </div>
+
+        <div id="error" class="error hidden"></div>
+
+        <div id="results" class="hidden">
+          <!-- Step 1: Google Response -->
+          <div class="result-section">
+            <h2>1️⃣ Google Places API Response</h2>
+            <div id="googleResponse"></div>
+          </div>
+
+          <!-- Step 2: Mapping to DB -->
+          <div class="result-section">
+            <h2>2️⃣ Mapping to Database Fields</h2>
+            <div id="mappingTable"></div>
+          </div>
+
+          <!-- Step 3: Boundary Lookup -->
+          <div class="result-section">
+            <h2>3️⃣ Boundary Lookup (How to get boundary IDs)</h2>
+            <div id="boundaryLookup"></div>
+          </div>
+
+          <!-- Step 4: Listings Query -->
+          <div class="result-section">
+            <h2>4️⃣ Listings Query (How to find listings)</h2>
+            <div id="listingsQuery"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

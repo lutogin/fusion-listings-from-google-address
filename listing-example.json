@@ -1,0 +1,622 @@
+{
+  "_id": {
+    "$numberLong": "2062290020647816"
+  },
+  "mls_id": "TX_ABOR",
+  "mls_key": "1148407278",
+  "mls_number": "2153783",
+  "list_id": {
+    "$numberLong": "2062290020647816"
+  },
+  "open_houses": [
+    {
+      "oh_end_dt": {
+        "$date": "2026-02-01T15:00:00.000Z"
+      },
+      "oh_start_dt": {
+        "$date": "2026-02-01T13:00:00.000Z"
+      },
+      "oh_desc": null,
+      "oh_status": "Ended",
+      "oh_appt_req": null,
+      "oh_updated_at": {
+        "$date": "2026-02-01T21:00:58.417Z"
+      },
+      "is_oh_virtual": null,
+      "virtual_oh_url": null
+    }
+  ],
+  "mls_source_id": 102,
+  "kw_updated_by": "slp_v5",
+  "open_houses_lock": false,
+  "metadata": {
+    "open_house": {
+      "downloaded_at": {
+        "$date": "2026-02-01T21:18:30.376Z"
+      },
+      "batch_id": {
+        "$numberLong": "4258697690020973184"
+      },
+      "processed_at_epoch": 1770415130.462888,
+      "kw_updated_at": {
+        "$date": "2026-02-06T21:59:11.095Z"
+      }
+    },
+    "photos": {
+      "downloaded_at": {
+        "$date": "2026-02-01T21:18:34.093Z"
+      },
+      "batch_id": {
+        "$numberLong": "4258697690020973184"
+      },
+      "processed_at_epoch": 1770419008.971668,
+      "kw_updated_at": {
+        "$date": "2026-02-06T23:03:50.447Z"
+      }
+    },
+    "listing": {
+      "downloaded_at": {
+        "$date": "2026-02-01T21:18:31.574Z"
+      },
+      "batch_id": {
+        "$numberLong": "4258697690020973184"
+      },
+      "processed_at_epoch": 1770416102.077463,
+      "kw_updated_at": {
+        "$date": "2026-02-06T22:16:38.402Z"
+      }
+    }
+  },
+  "open_house_updated_at": {
+    "$date": "2026-01-30T21:45:11.000Z"
+  },
+  "upcoming_open_house_at": null,
+  "kw_updated_at": {
+    "$date": "2026-02-06T23:03:50.447Z"
+  },
+  "photos": [
+    {
+      "ph_url": "https://storage.googleapis.com/slp5-stream-listing-media-qa/TRESTLE/431/2153783/photo/media/1_4223575743905400448.jpg",
+      "ph_type": "image/jpeg",
+      "ph_category": "Photo",
+      "mls_ph_order": "1",
+      "ph_order": 1,
+      "ph_id": "2025-12-11T16:35:57.937-00:00",
+      "ph_short_desc": null,
+      "ph_tags": null,
+      "kw_ph_id": {
+        "$numberLong": "4223575743905400448"
+      },
+      "ph_label": null,
+      "kw_ph_url": "https://storage.googleapis.com/slp5-stream-listing-media-qa/TRESTLE/431/2153783/photo/media/1_4223575743905400448.jpg",
+      "ph_updated_at": null
+    },
+    {
+      "ph_url": "https://storage.googleapis.com/slp5-stream-listing-media-qa/TRESTLE/431/2153783/photo/media/2_4223575697373791872.jpg",
+      "ph_type": "image/jpeg",
+      "ph_category": "Photo",
+      "mls_ph_order": "2",
+      "ph_order": 2,
+      "ph_id": "2025-12-11T16:35:57.937-00:00",
+      "ph_short_desc": null,
+      "ph_tags": null,
+      "kw_ph_id": {
+        "$numberLong": "4223575697373791872"
+      },
+      "ph_label": null,
+      "kw_ph_url": "https://storage.googleapis.com/slp5-stream-listing-media-qa/TRESTLE/431/2153783/photo/media/2_4223575697373791872.jpg",
+      "ph_updated_at": null
+    },
+    {
+      "ph_url": "https://storage.googleapis.com/slp5-stream-listing-media-qa/TRESTLE/431/2153783/photo/media/39_4223575743955788032.jpg",
+      "ph_type": "image/jpeg",
+      "ph_category": "Photo",
+      "mls_ph_order": "39",
+      "ph_order": 39,
+      "ph_id": "2025-12-11T16:35:57.937-00:00",
+      "ph_short_desc": null,
+      "ph_tags": null,
+      "kw_ph_id": {
+        "$numberLong": "4223575743955788032"
+      },
+      "ph_label": null,
+      "kw_ph_url": "https://storage.googleapis.com/slp5-stream-listing-media-qa/TRESTLE/431/2153783/photo/media/39_4223575743955788032.jpg",
+      "ph_updated_at": null
+    }
+  ],
+  "photos_lock": false,
+  "mls_media_count": 39,
+  "mls_media_updated_at": {
+    "$date": "2025-12-11T16:36:02.467Z"
+  },
+  "system": {
+    "kw_media_count": 39,
+    "kw_photo_count": 39,
+    "reprocessed": true,
+    "processed_by": "slp_pipeline",
+    "recon_process_id": null,
+    "recon_updated_at": null,
+    "listing_version_id": {
+      "$numberLong": "4223569962292273664"
+    }
+  },
+  "primary_photo_url": "https://storage.googleapis.com/slp5-stream-listing-media-qa/TRESTLE/431/2153783/photo/media/1_4223575743905400448.jpg",
+  "version": "4.8.1",
+  "kw_mls_id_int": 431,
+  "mls_updated_at": {
+    "$date": "2026-02-01T21:01:15.113Z"
+  },
+  "list_key": "TX_ABOR-2153783",
+  "list_uuid": "fed3fd898d2797663c3c23bb",
+  "list_agent_office": {
+    "list_agent_fax": null,
+    "list_agent_key": "TX_ABOR-001203-499671",
+    "list_agent_url": null,
+    "list_office_fax": null,
+    "list_office_key": "TX_ABOR-001203",
+    "list_office_url": null,
+    "list_agent_email": "kumarawilcoxon@gmail.com",
+    "list_agent_key_2": "TX_ABOR-982736-13978183",
+    "list_office_name": "Kuper Sotheby's Int'l Realty",
+    "list_agent_mls_id": "499671",
+    "list_office_email": null,
+    "list_office_key_2": "TX_ABOR-982736",
+    "list_office_phone": "(512) 831-6577",
+    "list_office_mls_id": "001203",
+    "list_agent_mls_id_2": "13978183",
+    "list_office_address": null,
+    "list_agent_full_name": "Kumara Wilcoxon",
+    "list_agent_last_name": "Wilcoxon",
+    "list_office_mls_id_2": "982736",
+    "list_agent_first_name": "Kumara",
+    "list_agent_office_phone": null,
+    "list_agent_license_number": "0499671",
+    "list_agent_preferred_phone": "(512) 423-5035"
+  },
+  "kw_mc": false,
+  "kw_agent": false,
+  "kw_listing": false,
+  "list_type": "MLS Listing",
+  "prop_type": "Residential",
+  "kwls_status": "Accepted",
+  "list_status": "Active",
+  "list_type_id": 2,
+  "manual_entry": false,
+  "prop_subtype": "Single Family Detached",
+  "prop_type_id": 8,
+  "sa_source_id": 102,
+  "list_category": "For Sale",
+  "list_status_id": 1,
+  "prop_subtype_id": 15,
+  "list_category_id": 2,
+  "source_system_name": "slp_v5",
+  "hoa": [
+    {
+      "assoc_fee": null,
+      "has_assoc": false,
+      "assoc_fee_freq": null,
+      "assoc_amenities": null,
+      "assoc_fee_search": null,
+      "assoc_fee_includes": null,
+      "assoc_fee_freq_search": null,
+      "assoc_req": null
+    }
+  ],
+  "raw": {
+    "trace_id": null,
+    "prop_type": "Single Family Residence",
+    "list_status": "Active",
+    "prop_subtype": null,
+    "prop_type_id": null,
+    "signature_id": null,
+    "market_center": null,
+    "parking_total": "2",
+    "co_list_kw_uid": null,
+    "list_status_id": null,
+    "source_list_id": null,
+    "display_listing": false,
+    "prop_subtype_en": null,
+    "lambda_updated_at": {
+      "$date": "1970-01-01T00:00:00.000Z"
+    },
+    "co_list_market_center": null
+  },
+  "taxes": [
+    {
+      "tax_id": "01090911050000",
+      "tax_amt": 71177.45,
+      "tax_year": "2025"
+    }
+  ],
+  "list_dt": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "close_dt": null,
+  "expenses": null,
+  "location": {
+    "county": "Travis",
+    "zoning": null,
+    "subdivision": "HILL H P",
+    "prop_directions": "BEE CAVES RD TO NORTH ON ROLLINGWOOD*LEFT ON INWOOD",
+    "region": null,
+    "township": null,
+    "elevation": null,
+    "municipality": null,
+    "neighborhoods": null
+  },
+  "mls_name": "Unlock MLS",
+  "brokerage": {
+    "name": "Kuper Sotheby's Int'l Realty",
+    "email": null,
+    "phone": "(512) 831-6577"
+  },
+  "full_bath": 4,
+  "half_bath": 1,
+  "list_desc": "Welcome to this stunning residence on one of Rollingwood's most sought-after streets—a rare sanctuary that seamlessly blends luxury with complete privacy. Spanning 5,050 square feet, with four bedrooms and four and a half bathrooms, this thoughtfully designed home is an architectural masterpiece.\n\nThe open floor plan connects sophisticated living spaces with everyday comfort, creating an inviting yet refined environment. The main level includes a dedicated office, a private fourth bedroom with its own ensuite, and a versatile game room. The kitchen is the heart of the home—custom finishes and high-end appliances flow effortlessly into the family room, opening to the backyard oasis. The covered outdoor living area is perfect for year-round entertaining, complete with a summer kitchen and grill.\n\nThe primary suite is a personal retreat with a spa-like bathroom, dedicated workout or reading room, and oversized walk-in closet. Elegant details throughout—from custom curtains to House of Hackney wallpaper—reflect careful design consideration. A full laundry room on the main level, a second laundry station in the primary closet, and an oversized garage complete the home's exceptional functionality.\n\nSituated on almost half an acre of mature landscaping that ensures complete privacy, this home is minutes from Austin's finest dining, shopping, and entertainment. This is the rare opportunity to own true luxury and seclusion in the heart of one of Austin's most prestigious neighborhoods—a Rollingwood living experience unlike any other.",
+  "structure": {
+    "views": null,
+    "stories": null,
+    "floorings": [
+      "Carpet",
+      "Vinyl",
+      "Wood"
+    ],
+    "utilities": [
+      "Cable Available",
+      "Cable Connected",
+      "Electricity Connected",
+      "High Speed Internet Available",
+      "Phone Connected",
+      "Water Connected"
+    ],
+    "appliances": [
+      "Dryer",
+      "Dishwasher",
+      "Exhaust Fan",
+      "Freezer",
+      "Disposal",
+      "Microwave",
+      "Oven",
+      "Refrigerator",
+      "Washer"
+    ],
+    "has_garage": true,
+    "roof_types": [
+      "Tile"
+    ],
+    "unit_level": null,
+    "has_parking": true,
+    "rooms_total": null,
+    "total_units": null,
+    "builder_name": null,
+    "water_source": [
+      "Public"
+    ],
+    "basement_desc": null,
+    "building_name": null,
+    "parking_total": 2,
+    "fireplace_desc": "Family Room",
+    "heating_cooling": [
+      "Central Air",
+      "Central"
+    ],
+    "total_buildings": null,
+    "dining_room_desc": null,
+    "family_room_desc": null,
+    "fireplaces_total": null,
+    "living_room_desc": null,
+    "parking_features": [
+      "Attached"
+    ],
+    "exterior_features": {
+      "has_deck": false,
+      "has_dock": false,
+      "has_pond": false,
+      "has_pool": true,
+      "has_patio": false,
+      "has_porch": true,
+      "has_garden": false,
+      "has_rv_parking": false,
+      "is_water_front": false,
+      "has_gated_entry": false,
+      "has_green_house": false,
+      "has_hot_tub_spa": false,
+      "has_sports_court": false,
+      "has_barbecue_area": false,
+      "has_disabled_access": false,
+      "has_sprinkler_system": false
+    },
+    "interior_features": {
+      "is_wired": false,
+      "has_sauna": false,
+      "has_wet_bar": false,
+      "has_elevator": false,
+      "has_skylight": false,
+      "has_fireplace": true,
+      "is_cable_ready": false,
+      "has_ceiling_fan": false,
+      "has_mother_in_law": false,
+      "has_jetted_bath_tub": false,
+      "has_security_system": true,
+      "has_vaulted_ceiling": false
+    },
+    "foundation_details": [
+      "Slab"
+    ],
+    "is_new_construction": false,
+    "master_bedroom_desc": null,
+    "architectural_design": null,
+    "architectural_styles": null,
+    "construction_materials": [
+      "Brick"
+    ]
+  },
+  "syndicate": {
+    "all_kw_apps": true,
+    "command_only": false,
+    "consumer_only": false
+  },
+  "total_bed": 4,
+  "green_home": null,
+  "is_deleted": false,
+  "kww_region": null,
+  "total_bath": 5,
+  "year_built": 2004,
+  "close_price": null,
+  "commissions": null,
+  "lease_price": null,
+  "living_area": 5050,
+  "list_address": {
+    "city": "Austin",
+    "zip_4": null,
+    "address": "400 Inwood Road, Austin, TX 78746",
+    "country": "US",
+    "state_prov": "TX",
+    "postal_code": "78746",
+    "street_name": "Inwood",
+    "unit_number": null,
+    "street_number": "400",
+    "street_suffix": "Road",
+    "coordinates_gp": {
+      "lat": 30.27349507,
+      "lon": -97.78272307
+    },
+    "coordinates_gs": {
+      "type": "Point",
+      "coordinates": [
+        -97.78272307,
+        30.27349507
+      ]
+    },
+    "street_post_dir": null,
+    "street_direction": null,
+    "full_street_address": "400 Inwood Road"
+  },
+  "partial_bath": null,
+  "currency_code": "USD",
+  "is_short_sale": false,
+  "kw_created_at": {
+    "$date": "2025-12-15T09:59:34.572Z"
+  },
+  "kw_created_by": "slp_v5",
+  "lot_size_area": 0.403,
+  "virtual_tours": [
+    {
+      "vt_url": "https://www.400inwood.com",
+      "vt_short_desc": null,
+      "vt_updated_at": null,
+      "vt_url_branded": null
+    }
+  ],
+  "is_foreclosure": false,
+  "is_kww_listing": false,
+  "lot_size_units": "acre",
+  "marketing_info": {
+    "vow": false,
+    "mls_timezone": "CST",
+    "display_photo": true,
+    "courtesy_label": "Courtesy of",
+    "display_address": true,
+    "display_listing": true,
+    "courtesy_of_list": "Kuper Sotheby's Int'l Realty, (512) 423-5035",
+    "display_internet": true,
+    "courtesy_location": "BOTTOM",
+    "legal_description": "UNNUMBERED LOT LJPH #1 ADDN",
+    "courtesy_of_detail": "Kuper Sotheby's Int'l Realty, (512) 423-5035",
+    "display_list_price": true,
+    "display_search_map": true,
+    "courtesy_of_contact": "(512) 423-5035",
+    "living_area_display": "5050.0",
+    "legal_exclusive_rights": false,
+    "legal_accept_disclaimer": false,
+    "photo_courtesy_required": false
+  },
+  "one_quarter_bath": null,
+  "price_tax_suffix": false,
+  "living_area_units": "sqft",
+  "sell_agent_office": null,
+  "current_list_price": 5995000,
+  "three_quarter_bath": null,
+  "co_list_agent_office": null,
+  "co_sell_agent_office": null,
+  "list_status_updated_at": {
+    "$date": "2025-12-15T10:29:40.000Z"
+  },
+  "original_list_category": "For Sale",
+  "special_list_condition": "Standard",
+  "mls_membership_required": false,
+  "original_list_category_id": 2,
+  "geo": {
+    "address_id": [
+      {
+        "$numberLong": "5884697450297953858"
+      }
+    ],
+    "property_id": [
+      {
+        "$numberLong": "5996431969205307607"
+      }
+    ],
+    "parent_property_id": null,
+    "mcd": [
+      996679
+    ],
+    "city": [
+      949963
+    ],
+    "state": [
+      964425
+    ],
+    "county": [
+      963036
+    ],
+    "postal_code": [
+      180798
+    ],
+    "neighborhood": [
+      117813
+    ],
+    "school_district": [
+      924640
+    ],
+    "school_attendance": [
+      826317,
+      1578778,
+      826318
+    ],
+    "boundary_agg": [
+      "117813",
+      "949963",
+      "180798",
+      "964425",
+      "996679",
+      "963036",
+      "826317",
+      "1578778",
+      "826318",
+      "924640"
+    ]
+  },
+  "days_on_market": null,
+  "living_area_sqft": 5050,
+  "lot_size_area_acre": 0.403,
+  "original_list_price": 5995000,
+  "list_price_reduced_at": null,
+  "current_price_updated_at": {
+    "$date": "2025-12-15T10:29:40.000Z"
+  },
+  "list_kw_uid": null,
+  "sell_kw_uid": null,
+  "market_center": null,
+  "co_list_kw_uid": null,
+  "price_per_acre": 14875930.52,
+  "price_per_sqft": 1187.13,
+  "co_list_market_center": null,
+  "kw_attribute": {
+    "kw_active": false,
+    "membership": {
+      "gps": false,
+      "kww": false,
+      "kwyp": false,
+      "land": false,
+      "luxury": false,
+      "commercial": false,
+      "maps_coach": false,
+      "maps_client": false,
+      "keller_mortgage": false,
+      "maps_mastery_client": false
+    },
+    "list_team_id": null
+  },
+  "price_history": [
+    {
+      "in_use": true,
+      "percent_change": 0,
+      "price_updated_at": {
+        "$date": "2025-12-15T10:29:40.000Z"
+      },
+      "current_list_price": 5995000,
+      "previous_list_price": null
+    }
+  ],
+  "property_address": {
+    "zip_4": "5623",
+    "county": null,
+    "address": "400 INWOOD RD,AUSTIN, TX 78746-5623,USA",
+    "city_long": "AUSTIN",
+    "unit_type": null,
+    "city_short": null,
+    "county_fips": null,
+    "street_long": "INWOOD RD",
+    "street_unit": null,
+    "unit_number": null,
+    "country_long": null,
+    "level_number": null,
+    "street_short": null,
+    "country_short": "USA",
+    "rural_address": null,
+    "street_number": "400",
+    "coordinates_gp": {
+      "lat": 30.273529,
+      "lon": -97.782814
+    },
+    "coordinates_gs": {
+      "type": "Point",
+      "coordinates": [
+        -97.782814,
+        30.273529
+      ]
+    },
+    "habitation_name": null,
+    "state_prov_long": null,
+    "postal_code_long": "78746",
+    "state_prov_short": "TX",
+    "street_direction": null,
+    "postal_code_short": null,
+    "street_number_low": null,
+    "street_number_high": null,
+    "street_suffix_long": null,
+    "full_street_address": "400 INWOOD RD",
+    "street_suffix_short": null
+  },
+  "luxury_home": false,
+  "links": null,
+  "history": [
+    {
+      "other": false,
+      "photo": false,
+      "price": null,
+      "status": null,
+      "timestamp": null,
+      "open_house": false,
+      "new_listing": false,
+      "virtual_tour": false
+    }
+  ],
+  "links_lock": false,
+  "publish_dt": null,
+  "office_size": null,
+  "retail_size": null,
+  "kw_expiry_dt": null,
+  "list_desc_en": null,
+  "con_expiry_dt": null,
+  "listing_title": null,
+  "list_desc_lock": false,
+  "lot_depth_area": null,
+  "lot_front_area": null,
+  "prop_type_lock": false,
+  "warehouse_size": null,
+  "lot_depth_units": null,
+  "lot_front_units": null,
+  "other_area_size": null,
+  "list_status_lock": false,
+  "kw_expiry_dt_lock": false,
+  "office_size_units": null,
+  "prop_subtype_lock": false,
+  "retail_size_units": null,
+  "contract_expiry_dt": null,
+  "virtual_tours_lock": false,
+  "warehouse_size_units": null,
+  "other_area_size_units": null,
+  "contract_expiry_dt_lock": false
+}

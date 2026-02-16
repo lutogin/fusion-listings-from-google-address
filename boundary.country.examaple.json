@@ -1,0 +1,76 @@
+{
+  "_id": "963036",
+  "area": 2653976378.875461,
+  "autocompleteText": "travis county tx texas united states",
+  "category": "COUNTY",
+  "country": "USA",
+  "createdAt": "2024-07-11T09:40:51Z",
+  "display": "Travis County, TX, USA",
+  "foreignKey": "9e401c37-b252-426f-ae66-7cb4bc233696",
+  "geo": {
+    "boundary": {
+      "type": "Feature",
+      "@type": "geo.area",
+      "geometry": {
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:4326"
+          }
+        },
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -98.053728,
+                30.27099
+              ],
+              [
+                -98.0539666,
+                30.2711721
+              ],
+              [
+                -98.054332,
+                30.271451
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "centroid": {
+      "@type": "geo.point",
+      "extension": {
+        "zoom": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.78202819824219,
+          30.3343563079834
+        ]
+      }
+    }
+  },
+  "label": {
+    "name": "Travis County",
+    "nameLevel": "LEVEL3",
+    "categoryNative": "county"
+  },
+  "source": "pf_boundary_tu_sync",
+  "state": "Texas",
+  "stateShort": "TX",
+  "updatedAt": "2026-01-27T06:34:45Z",
+  "updatedBy": "geoadmin",
+  "whatLocalsSay": [],
+  "active": true,
+  "parentBoundaries": {
+    "STATE": [
+      964425
+    ],
+    "KW_REGION": [
+      1050806
+    ]
+  }
+}

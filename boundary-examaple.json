@@ -1,0 +1,88 @@
+{
+  "_id": "949963",
+  "active": true,
+  "area": 1803883.8747017798,
+  "autocompleteText": "rollingwood tx texas united states",
+  "category": "CITY",
+  "city": "Rollingwood",
+  "country": "USA",
+  "county": "Travis",
+  "createdAt": "2024-07-11T09:40:51Z",
+  "display": "Rollingwood, TX, USA",
+  "foreignKey": "9b4a3d40-6063-42a2-afa4-ce3d18470eaa",
+  "geo": {
+    "boundary": {
+      "type": "Feature",
+      "@type": "geo.area",
+      "geometry": {
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:4326"
+          }
+        },
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -97.7991509,
+                30.2720431
+              ],
+              [
+                -97.7989831,
+                30.2722877
+              ],
+              [
+                -97.798806,
+                30.272546
+              ],
+              [
+                -97.7991509,
+                30.2720431
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    "centroid": {
+      "@type": "geo.point",
+      "extension": {
+        "zoom": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.78681945800781,
+          30.27359390258789
+        ]
+      }
+    }
+  },
+  "label": {
+    "name": "Rollingwood",
+    "nameLevel": "LEVEL8",
+    "categoryNative": "city"
+  },
+  "parentBoundaries": {
+    "STATE": [
+      964425
+    ],
+    "COUNTY": [
+      963036
+    ],
+    "KW_REGION": [
+      1050806
+    ],
+    "POSTALCODE": [
+      180798
+    ]
+  },
+  "source": "pf_boundary_tu_sync",
+  "state": "Texas",
+  "stateShort": "TX",
+  "updatedAt": "2026-01-26T18:39:22Z",
+  "updatedBy": "geoadmin",
+  "whatLocalsSay": []
+}

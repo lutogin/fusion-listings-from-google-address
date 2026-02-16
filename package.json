@@ -1,0 +1,25 @@
+{
+  "name": "get-listings-from-google-addres",
+  "version": "1.0.0",
+  "description": "Get listing data from Google address search",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test:google": "ts-node src/test-google.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.4.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
